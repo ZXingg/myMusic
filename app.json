@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/toplist/toplist",
+    "pages/cdinfo/cdinfo",
+    "pages/play/play"
+  ],
+  
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#66cc66",
+    "navigationBarTitleText": "My Music",
+    "navigationBarTextStyle":"white"
+  }
+}
